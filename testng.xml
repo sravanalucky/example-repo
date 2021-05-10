@@ -1,0 +1,9 @@
+<suite name="Suite">
+    <test name="test">
+        <classes>
+            <class name="AppiumTest"/>
+            <class name="RESTAPITest"/>
+
+        </classes>
+    </test>
+</suite>
